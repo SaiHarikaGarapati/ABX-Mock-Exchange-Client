@@ -1,0 +1,6 @@
+Steps to run the application from local:
+Step 1 :  Clone the reposirtory into the visual studio
+Step 2 : Make sure to have Node.js installed
+Step 3 : Run the abx server json file in command prompt by passing the command - "node main.js"
+Step 4 : Run the project from visual studio.
+Step 5 : A json file will be generated with the output in the path - [YourProjectFolder]\bin\Debug\netX.X\ticker_output.json
